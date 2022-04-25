@@ -1,1 +1,1 @@
-*Need to install PyGAD and Imageio
+*Need to install PyGAD and Imageio library
